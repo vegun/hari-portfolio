@@ -114,6 +114,7 @@ section.fade-out{
     width: calc(100% - 30px);
     left: 50%;
     transform: translateX(-50%);
+    z-index: -200;
 }
 .bg-circles div{
     position: absolute;
